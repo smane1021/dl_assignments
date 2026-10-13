@@ -1,0 +1,21 @@
+# Virtual environment
+dl_env/
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+
+# Large datasets
+mnist_train.csv
